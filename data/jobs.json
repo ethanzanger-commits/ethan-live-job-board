@@ -13,12 +13,29 @@
     "move": "Send the official role link plus current CV and ask whether either can refer before applying.",
     "url": "https://careers.lightricks.com/position?gh_jid=8764275002&gh_jid=8764275002",
     "open": true,
-    "checked_at": "2026-11-23T14:45:53.570736+00:00",
+    "checked_at": "2026-11-24T14:55:17.209384+00:00",
+    "source": "Official company career page"
+  },
+  {
+    "id": "role-2",
+    "rank": 2,
+    "company": "Wix / Base44",
+    "title": "Demand Generation Manager",
+    "score": 91,
+    "location": "Tel Aviv",
+    "track": "Demand generation",
+    "fit": "Excellent",
+    "why": "Direct match for multi-channel acquisition, paid media, funnel optimization, analytics, and pipeline growth.",
+    "contact": "Sam Schneidman (existing Base44 contact)",
+    "move": "Send Sam this exact role link and the updated CV. Ask him to flag this role internally.",
+    "url": "https://careers.wix.com/position/oracle-376c470e-478f-5a26-bf9f-0e03811780f3-T1778498280-744000132934678",
+    "open": true,
+    "checked_at": "2026-11-24T14:55:17.209384+00:00",
     "source": "Official company career page"
   },
   {
     "id": "role-3",
-    "rank": 2,
+    "rank": 3,
     "company": "Wix",
     "title": "Partnerships Manager - Podcasts and Influencers",
     "score": 88,
@@ -30,12 +47,12 @@
     "move": "Ask Sam whether this role sits close enough to his team for an internal referral or handoff.",
     "url": "https://careers.wix.com/position/seat-73fd4a22-0287-4b71-95c5-7c320e9e6a43-744000028261035",
     "open": true,
-    "checked_at": "2026-11-23T14:45:53.570736+00:00",
+    "checked_at": "2026-11-24T14:55:17.209384+00:00",
     "source": "Official company career page"
   },
   {
     "id": "role-4",
-    "rank": 3,
+    "rank": 4,
     "company": "Wix / Base44",
     "title": "Field Marketing Manager",
     "score": 86,
@@ -47,12 +64,12 @@
     "move": "Compare against Demand Generation first. Use this as the second Base44 option if Sam thinks the scope fits better.",
     "url": "https://careers.wix.com/position/oracle-20f23701-b1a1-5f07-af78-a4a9c58d4865-T1777903325-744000131486411",
     "open": true,
-    "checked_at": "2026-11-23T14:45:53.570736+00:00",
+    "checked_at": "2026-11-24T14:55:17.209384+00:00",
     "source": "Official company career page"
   },
   {
     "id": "role-6",
-    "rank": 4,
+    "rank": 5,
     "company": "Wix / Base44",
     "title": "Full Stack Marketer",
     "score": 81,
@@ -64,12 +81,12 @@
     "move": "Use only if Sam confirms the team values paid-media depth. Lead with hands-on platform work plus AI tools from the resume.",
     "url": "https://careers.wix.com/position/oracle-55f7e5fa-dd42-5126-b678-efb260bceb76-T1774787216-744000134706098",
     "open": true,
-    "checked_at": "2026-11-23T14:45:53.570736+00:00",
+    "checked_at": "2026-11-24T14:55:17.209384+00:00",
     "source": "Official company career page"
   },
   {
     "id": "role-7",
-    "rank": 5,
+    "rank": 6,
     "company": "Wix / Base44",
     "title": "Senior AI Product Marketing Manager",
     "score": 74,
@@ -81,12 +98,12 @@
     "move": "Do not lead with this role. Ask Sam whether the hiring team would consider an agency-side media leader moving into PMM.",
     "url": "https://careers.wix.com/position/oracle-d5a4b6da-e535-5ca0-b4f6-318fbb7fa707-T1785835786-744000141454128",
     "open": true,
-    "checked_at": "2026-11-23T14:45:53.570736+00:00",
+    "checked_at": "2026-11-24T14:55:17.209384+00:00",
     "source": "Official company career page"
   },
   {
     "id": "role-8",
-    "rank": 6,
+    "rank": 7,
     "company": "Wix",
     "title": "Product Marketing Manager - Inbound Wix Studio",
     "score": 72,
@@ -98,12 +115,12 @@
     "move": "Keep as a secondary option, not the first referral ask.",
     "url": "https://careers.wix.com/position/seat-cf99b16b-7fa4-46fd-9623-49d88ef9f894-743999999662495",
     "open": true,
-    "checked_at": "2026-11-23T14:45:53.570736+00:00",
+    "checked_at": "2026-11-24T14:55:17.209384+00:00",
     "source": "Official company career page"
   },
   {
     "id": "ashby-46dfc8a1-5f15-4236-851f-b28ca7d4341d",
-    "rank": 7,
+    "rank": 8,
     "company": "Wonderful",
     "title": "Social Media Manager",
     "score": 71,
@@ -115,12 +132,12 @@
     "move": "Use the official application path and lead with the U.S.-market, paid-media, and growth experience that matches the role.",
     "url": "https://jobs.ashbyhq.com/wonderful/46dfc8a1-5f15-4236-851f-b28ca7d4341d",
     "open": true,
-    "checked_at": "2026-11-23T14:45:53.570736+00:00",
+    "checked_at": "2026-11-24T14:55:17.209384+00:00",
     "source": "Official Wonderful Ashby board"
   },
   {
     "id": "ashby-ce1f6789-8944-4e30-9f56-32c831cf4398",
-    "rank": 8,
+    "rank": 9,
     "company": "Wonderful",
     "title": "Senior Product Marketing Manager",
     "score": 66,
@@ -132,12 +149,12 @@
     "move": "Use the official application path and lead with the U.S.-market, paid-media, and growth experience that matches the role.",
     "url": "https://jobs.ashbyhq.com/wonderful/ce1f6789-8944-4e30-9f56-32c831cf4398",
     "open": true,
-    "checked_at": "2026-11-23T14:45:53.570736+00:00",
+    "checked_at": "2026-11-24T14:55:17.209384+00:00",
     "source": "Official Wonderful Ashby board"
   },
   {
     "id": "ashby-d09c15ad-d0e2-42cb-b1e3-44dc8bea94a6",
-    "rank": 9,
+    "rank": 10,
     "company": "Wonderful",
     "title": "Vertical PM - Telco, Media and Tech",
     "score": 38,
@@ -149,25 +166,8 @@
     "move": "Use the official application path and lead with the U.S.-market, paid-media, and growth experience that matches the role.",
     "url": "https://jobs.ashbyhq.com/wonderful/d09c15ad-d0e2-42cb-b1e3-44dc8bea94a6",
     "open": true,
-    "checked_at": "2026-11-23T14:45:53.570736+00:00",
+    "checked_at": "2026-11-24T14:55:17.209384+00:00",
     "source": "Official Wonderful Ashby board"
-  },
-  {
-    "id": "role-2",
-    "rank": 10,
-    "company": "Wix / Base44",
-    "title": "Demand Generation Manager",
-    "score": 91,
-    "location": "Tel Aviv",
-    "track": "Demand generation",
-    "fit": "Excellent",
-    "why": "Direct match for multi-channel acquisition, paid media, funnel optimization, analytics, and pipeline growth.",
-    "contact": "Sam Schneidman (existing Base44 contact)",
-    "move": "Send Sam this exact role link and the updated CV. Ask him to flag this role internally.",
-    "url": "https://careers.wix.com/position/oracle-376c470e-478f-5a26-bf9f-0e03811780f3-T1778498280-744000132934678",
-    "open": false,
-    "checked_at": "2026-11-23T14:45:53.570736+00:00",
-    "source": "Official company career page"
   },
   {
     "id": "role-5",
@@ -183,7 +183,7 @@
     "move": "Apply directly only after checking Hebrew expectations and seniority. Use the U.S.-market angle in the application.",
     "url": "https://jobs.ashbyhq.com/wonderful/cad28aa1-ad05-415b-8c48-9af60e064226",
     "open": false,
-    "checked_at": "2026-11-23T14:45:53.570736+00:00",
+    "checked_at": "2026-11-24T14:55:17.209384+00:00",
     "source": "Official company career page"
   },
   {
@@ -200,7 +200,7 @@
     "move": "Use the official application path and lead with the U.S.-market, paid-media, and growth experience that matches the role.",
     "url": "https://jobs.ashbyhq.com/wonderful/fd14ef5c-2ca0-4636-9644-549d1a266bbc",
     "open": false,
-    "checked_at": "2026-11-23T14:45:53.570736+00:00",
+    "checked_at": "2026-11-24T14:55:17.209384+00:00",
     "source": "Official Wonderful Ashby board"
   }
 ]
